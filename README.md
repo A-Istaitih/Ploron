@@ -1,9 +1,7 @@
 # Ploron
 
-Prolon moblie application
+Ploron moblie application
 
-# # Dudu
-
-## Local Development
-
-1. Open html file
+## About Us
+find audio-guides from PLORON.
+You can fidnd more information about PLORON at www.ploron.com.
