@@ -23,7 +23,7 @@ void BubbleSort(int arr[], int n){
     }
 }
 int main(){
-    int array[N] = {2,8,9,4,1,9};
+    int array[N] = {2,8,9,5,1,9};
     BubbleSort(array, N);
     for(int i=1; i<N; i++){
         printf("%d ", array[i]);
