@@ -1,7 +1,7 @@
 #include <stdio.h>
 # define N 6
 
-void swap(int *a, int *b) {
+void swap(int *a, int *b){
     int tmp = *a;
     *a = *b;
     *b = tmp;
