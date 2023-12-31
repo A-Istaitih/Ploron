@@ -1,5 +1,5 @@
 #include <stdio.h>
-# define N 6
+# define N 61
 
 void swap(int *a, int *b){
     int tmp = *a;
